@@ -76,8 +76,7 @@ jupyter notebook Notebook.ipynb
 - Padrões temporais nas publicações
 
 # 🗂️ Estrutura do Projeto
-
-.
+```
 ├── Notebook.ipynb          # Análise completa
 ├── dataset/
 │   └── Books_Data_Clean.csv  # Dataset original
@@ -86,6 +85,7 @@ jupyter notebook Notebook.ipynb
 │   └── ...
 ├── README.md               # Documentação
 └── requirements.txt        # Dependências
+```
 
 # 🤝 Contribuição
 Contribuições são bem-vindas! Siga estas etapas:
