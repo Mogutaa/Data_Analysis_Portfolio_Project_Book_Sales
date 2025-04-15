@@ -44,7 +44,7 @@ Bibliotecas:
 
 1. Clone o repositório:
 ```ruby
-git clone https://github.com/seu-usuario/repositorio.git
+git clone https://github.com/Mogutaa/Data_Analysis_Portfolio_Project_Book_Sales.git
 ```
 2. Instale as dependências:
 ```ruby
