@@ -14,7 +14,7 @@ Este projeto realiza uma análise exploratória de dados de livros para entender
   ![Correlação](images/box_plot_of_book_ratings_count_by_genre.png)
   
 - **Correlação entre preço e quantidade vendida**
-  ![Correlação](images/scatter_plot_of_sale_price_vs_units_sold.png)
+- ![Correlação](images/scatter_plot_of_sale_price_vs_units_sold.png)
   *Preços mais altos vendem menos.*
 
 
